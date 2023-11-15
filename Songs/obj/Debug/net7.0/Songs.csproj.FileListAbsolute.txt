@@ -1,0 +1,45 @@
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\bin\Debug\net7.0\Songs.exe
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\bin\Debug\net7.0\Songs.deps.json
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\bin\Debug\net7.0\Songs.runtimeconfig.json
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\bin\Debug\net7.0\Songs.dll
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\bin\Debug\net7.0\Songs.pdb
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.csproj.AssemblyReference.cache
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.AssemblyInfoInputs.cache
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.AssemblyInfo.cs
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.csproj.CoreCompileInputs.cache
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.dll
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\refint\Songs.dll
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.pdb
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\Songs.genruntimeconfig.cache
+C:\Users\gianc\OneDrive\Área de Trabalho\Songs\Songs\obj\Debug\net7.0\ref\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\bin\Debug\net7.0\Songs.exe
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\bin\Debug\net7.0\Songs.deps.json
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\bin\Debug\net7.0\Songs.runtimeconfig.json
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\bin\Debug\net7.0\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\bin\Debug\net7.0\Songs.pdb
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.csproj.AssemblyReference.cache
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.AssemblyInfoInputs.cache
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.AssemblyInfo.cs
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.csproj.CoreCompileInputs.cache
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\refint\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.pdb
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\Songs.genruntimeconfig.cache
+C:\Users\gianc\OneDrive\Documentos\projects\dotnet\Songs\Songs\obj\Debug\net7.0\ref\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\bin\Debug\net7.0\Songs.exe
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\bin\Debug\net7.0\Songs.deps.json
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\bin\Debug\net7.0\Songs.runtimeconfig.json
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\bin\Debug\net7.0\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\bin\Debug\net7.0\Songs.pdb
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.csproj.AssemblyReference.cache
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.AssemblyInfoInputs.cache
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.AssemblyInfo.cs
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.csproj.CoreCompileInputs.cache
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\refint\Songs.dll
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.pdb
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\Songs.genruntimeconfig.cache
+C:\Users\gianc\OneDrive\Documentos\projects\songs\Songs\obj\Debug\net7.0\ref\Songs.dll
